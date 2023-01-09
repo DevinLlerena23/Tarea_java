@@ -29,9 +29,7 @@ separarPalabras("hola;mundo")
 console.log("\n")
 separarPalabras("La;rana;dardo;dorada;es;el;animal;mas;venenoso;del;mundo")
 
-//const palabras="Bienvenidos;a;la;PUCE;sede;Esmeraldas"
-//const pa=palabras.split(";")
-//pa.forEach(data=>console.log(data,"\n"))
+
 
 //2) Diseñe la función que recibe como parámetro un array de enteros. La función debe devolver el array ordenado. (Orden ascendente - consulte el método sort)
 
