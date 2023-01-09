@@ -74,9 +74,7 @@ console.log("\n")
 const ciud="Quito-Barcelona-Lima-Guayaquil-Bogotá-Cali-Esmeraldas"
 const oredenCiu = (ciudades) => {
     const pa = ciudades.split("-");
-    return pa.sort((a, b) => {
-      return b - a;
-    });
+    return pa.sort().reverse()
     
   }
 
