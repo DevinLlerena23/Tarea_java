@@ -25,7 +25,7 @@ separarPalabras("Tarea;de;programacion")
 console.log("\n")
 separarPalabras("Los;delfines;son;mamiferos")
 console.log("\n")
-separarPalabras("this;is;a;sentence")
+separarPalabras("hola;mundo")
 console.log("\n")
 separarPalabras("La;rana;dardo;dorada;es;el;animal;mas;venenoso;del;mundo")
 
